@@ -1,27 +1,34 @@
-### Hi there 👋
+# Hi, I’m Yunkuangao 👋
 
-<!--
-**yunkuangao/yunkuangao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source developer focused on AI, automation, and self-hosted systems.
 
-Here are some ideas to get you started:
+I enjoy building practical tools with AI and RPA, turning repetitive work into reliable workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+- 🧠 AI workflows and intelligent automation
+- 🤖 RPA and process optimization
+- 🏠 Self-hosted AI / local deployment setups
+- 🛠️ Vibe coding and rapid prototyping
+- 🌍 Open-source projects with real-world value
 
+### Stack
+- Java, Python, Node.js, Kotlin, C#, C++, Rust, R, PHP, VBA, and more
+- Linux, Docker, Git, APIs, scripting, workflow automation
 
+### Current focus
+- Self-hosted AI solutions
+- AI-powered business automation
+- RPA and workflow orchestration
+- Practical tools that improve productivity
+
+### Contact
+- Email: yun@yka.moe
+- GitHub: github.com/yunkuangao
+
+> I build with AI, automate the repetitive work, and keep systems practical, private, and useful.
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunkuangao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkuangao)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunkuangao&repo=gradle&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunkuangao&repo=rush&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunkuangao&repo=cargo&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunkuangao&repo=ansible&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
